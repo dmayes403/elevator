@@ -8,7 +8,7 @@ var timeForwarder = function(dt, stepSize, fn) {
 	}
 };
 
-describe("Elevator Saga", function() {
+describe("Elevator", function() {
 
 	var handlers = null;
 	beforeEach(function() {
